@@ -11,9 +11,11 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [] Criar classes preTeste() e posTeste()
-- [] Refatorar para atender as boas praticas
-- [] Rollback dos testes
+- [] Criar projeto maven spring boot
+- [] Criar Model
+- [] Criar Repositórios
+- [] Criar Services
+- [] Criar Controler
 
 ## 💻 Pré-requisitos
 
@@ -53,7 +55,7 @@ Clone ou baixe o projeto para uma pasta local
 > Clone:
 
 ```
-git clone https://github.com/fabiojcbatista/testes-unitarios.git
+git clone https://github.com/fabiojcbatista/apiBook.git
 ```
 
 > Depois abra na sua IDE preferida: Vs Code/Eclipse/Intellij Idea
