@@ -16,6 +16,12 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [] Criar Repositórios
 - [] Criar Services
 - [] Criar Controler
+- [] Criar testes para regra de negócio
+- [] Criar testes para repositório
+- [] Criar testes para serviços
+- [] Criar testes para controller
+- [] Criar testes de API
+- [] Criar testes de integração
 
 ## 💻 Pré-requisitos
 
